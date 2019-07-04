@@ -1,5 +1,8 @@
 // Mixins
 // Bootstrap Button Variant
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+
 @mixin button-variant($color, $background, $border) {
   color: $color;
   border-color: $border;
@@ -64,5 +67,6 @@
   font-family: 'Lora', 'Times New Roman', serif;
 }
 @mixin sans-serif-font() {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
+  // font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

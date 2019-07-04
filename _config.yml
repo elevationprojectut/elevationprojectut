@@ -1,9 +1,9 @@
-title:              Elevation Project
+title:              ELEVATION PROJECT
 email:              nafox23@gmail.com
 description:        The Elevation project exists to help Utah churches fulfill the Great Commission in culturally effective ways
 author:             Nate Fox
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://elevationprojectut.github.io/elevationprojectut/"
+baseurl:            "/elevationprojectut"
+url:                "https://elevationprojectut.github.io/"
 
 # Social Profiles
 # twitter_username:   
