@@ -1,0 +1,28 @@
+.mt-header {
+    width: 100%;
+    text-align: center;
+
+    h5 {
+        position: relative;
+        display: inline-block;
+    }
+      
+    h5 .mt-tooltip {
+        visibility: hidden;
+        width: 500px;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        position: absolute;
+        z-index: 1;
+        left: 10px;
+        top: 10px;
+    }
+
+    h5:hover .mt-tooltip {
+        visibility: visible;
+    }
+
+}
